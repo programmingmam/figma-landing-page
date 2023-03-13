@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+body{
+    font-family: 'Inter' !important;
+}
+
+/* -------navbar-style------------------------------------------------ */
+ .nav-link{
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    color: #0D0A19;
+    margin-left: 20px;
+   
+ }
+ .signup{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+ }
+ .signup img{
+    background:#f5f6f7;
+    width: 30px;
+    height: 25px;
+    border-radius: 10px;
+    padding: 5px 8px;
+    margin-right: 5px;
+ }
+
+
+/* -------navbar-style--------------------------------------------end---- */
+
+
+/* homepage--styl------------------------------------- */
+.homepage{
+   background-image:
+   linear-gradient(rgba(0, 0, 0,0.75),rgba(0, 0, 0, 0.75)),url(imgbox/hhhhh.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   width: 100%;
+   height:564px;
+   
+}
+.homepage h1{
+ font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+text-align: center;
+letter-spacing: -0.304762px;
+color: #FFFFFF;
+padding-top:100px;
+}
+.homepage-p{
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 27px;
+   text-align: center;
+   color: #FFFFFF;
+   margin-top: 10px;
+}
+
+
+/* form-select-style----------- */
+.homepage-fotter-section{
+   background: #FFFFFF;
+   box-shadow: 0px 3px 4px rgba(153, 155, 168, 0.15);
+   border-radius: 8px;  
+   max-width: 945px;
+   height: 80px;
+   position: absolute;
+   margin: 0px auto;
+   bottom: -15px;
+   left: 50%;
+   z-index: 99;
+   width: 97%;
+   transform: translateX(-50%);
+
+}
+.homepage-fotter-section p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+margin-left: 20px;
+margin-top: -10px;
+ 
+ 
+ 
+
+}
+
+.form-select{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+border: none !important;
+margin-top: -15px;
+
+}
+.tomakesimilar{
+   margin-top: 44px;
+}
+.homepagebutton{
+ margin-top: -23px;
+background: #7963F0;
+border-radius: 10px;
+font-weight: 700;
+color: #FFFFFF;
+padding: 7px 15px;
+
+}
+.homepagebutton img{
+   margin-top: -2px;
+   margin-right: 5px;
+
+ 
+}
+.borderright{
+   border-right: 1px solid #0c5a09;
+   height: 40px;
+   margin-top: 20px;
+  
+}
+ 
+/* form-select-style-----------end */
+
+
+/* homepage--styl-------------------------------------end */
+
+
+
+

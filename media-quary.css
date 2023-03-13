@@ -1,0 +1,31 @@
+@media all and (max-width:767px){
+    .homepage h1{
+        
+       font-weight: 600;
+       font-size: 45px;
+       line-height: 45px;
+     
+
+       
+        
+        
+       }
+       .homepage-p{
+        
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 33px;
+        
+        margin-top: 40px;
+     }
+     .homepage-fotter-section{
+        height: 100px;
+        bottom: -30px;
+    
+     }
+     .homepagebutton{
+       width: 96%;
+       padding: 16px 0;
+
+       }
+}
