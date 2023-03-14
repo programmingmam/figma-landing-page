@@ -28,4 +28,40 @@
        padding: 16px 0;
 
        }
+       .companylogo{
+         margin: 350px 0 100px 0;
+       
+       }
+       .companylogo img{
+        margin-top: 30px;
+       
+       }
+       .slider-buttons {
+         position: absolute;
+         top: -26px;
+         left: 85%;
+         transform: translateX(-50%);
+        
+       }
+       .find-nav {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+        
+      }
+      .responsive{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      .arrow-icon img{
+      display: none;
+      }
+     .responsive-fotter{
+      text-align: center;
+
+     }
+    .md-finish{
+    margin-right: 20px;
+    }
 }

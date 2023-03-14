@@ -156,4 +156,296 @@ padding: 7px 15px;
 
 
 
+/* company-logo -style-------------- */
+.companylogo{
+  margin: 80px 0 100px 0;
 
+}
+
+/* company-logo -style--------------end */
+
+/* card-design----------- */
+.tripplecard h1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+text-align: center;
+margin-bottom: 80px;
+}
+.tripplecard h5{
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 27px;
+   color: #0D0A19;
+}
+.head-image{
+   
+   width: 100%;
+}
+.tripplecard p{
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+}
+.card-smalltittle{
+   margin-top: -3px;
+}
+.card-smalltittle .number{
+   margin-left: 10px;
+   
+}
+.card-smalltittle .dott{
+  padding: 0 5px;
+}
+.celler-company{
+  margin-right: 10px;
+}
+ 
+.celler-company .img-companylogo{
+   margin-top: 15px;
+   margin-right:17px;
+  
+}
+.card-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+.card-btn  .btn{
+   background: #7963F0;
+border-radius: 10px;
+color: #ffffff;
+font-weight: 700;
+font-size: 14px;
+margin-top: -17px;
+padding:10px 22px;
+}
+.cardborder{
+ 
+   border: 1px solid #E4E6E8;
+ padding:  0 20px 0 0;
+ border-radius: 14px;
+ 
+}
+
+ 
+
+
+/* card-design-----------end */
+
+/* only image--------slider--------------------------- */
+.slider{
+   padding: 60px 0;
+}
+.imageslider{
+   margin: 70px 0 70px;
+}
+.imageslider h1{
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 28px;
+   line-height: 36px;
+   letter-spacing: -0.1px;
+   color: #0D0A19;
+}
+ 
+ 
+.slider {
+   position: relative;
+   overflow: hidden;
+ }
+ 
+ .slider-container {
+   display: flex;
+   width: max-content;
+   transition: transform 0.5s ease;
+ }
+ 
+ .product-card {
+    max-width: 300px;
+   margin: 0 20px;
+ 
+ }
+ .product-card img{
+   width: 300px;
+   height: auto;
+
+ }
+ .product-card h5{
+   
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 27px;
+   color: #0D0A19;
+   padding-top: 7px;
+ }
+ 
+ .product-card .producct-details button{
+   
+   background: #7963F0;
+   border-radius: 10px;
+   color: #ffffff;
+   font-weight: 700;
+   font-size: 14px;
+   margin-top: -17px;
+   padding:10px 22px;
+   border: none;
+   margin-top: 10px;
+ }
+ 
+ .slider-buttons {
+   position: absolute;
+   top: -26px;
+   left: 90%;
+   transform: translateX(-50%);
+  
+ }
+ 
+ .prev-btn,
+ .next-btn {
+   background: none;
+   border: none;
+   font-size: 50px;
+   color: #664f4f;
+   cursor: pointer;
+ }
+ 
+ .prev-btn:hover,
+ .next-btn:hover {
+   color: #000;
+ }
+ /* ---------------------------- */
+
+
+
+ /* -----------list section----------------- */
+ 
+ .find-nav h3{
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 28px;
+   line-height: 36px;
+   letter-spacing: -0.1px;
+   color: #0D0A19;
+ }
+ .list-btn{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+
+ }
+ .right-btns .list-btn-active{
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.1px;
+color: #0D0A19;
+padding: 0 20px 0 20px;
+ }
+ .same-p-design{
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+ 
+letter-spacing: -0.1px;
+
+color: #9A9EA7;
+ }
+ .list-detais{
+   margin-bottom: 50px;
+ }
+ 
+ .list-detais img{
+  width: 40px;
+  height: 40px;
+ }
+ .list-detais h6{
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 27px;
+   color: #0D0A19;
+ }
+ .list-subname{
+   margin-left: 11px;
+ }
+ .count{
+   margin-top: -10px;
+
+ }
+ .arrow-icon img{
+   height: 20px;
+   width: 20px;
+   margin-left:70px;
+   margin-top: 10px;
+ }
+
+ .list-detais-1 h6{
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 27px;
+   color: #0D0A19;
+ }
+  .right-list{
+   margin-top: 70px;
+  }
+ /* -----------list section----------------end- */
+  
+
+
+.fotter{
+   margin-top: 110px;
+   margin-bottom: 50px;
+}
+ .fotter h5{
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+ }
+ /* ------------------------------------ */
+ 
+.page-finsish{
+   background-color: #E4E6E8;
+   padding: 15px 0 10px 0;
+}
+ .page-finsish h6{
+   font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+ }
